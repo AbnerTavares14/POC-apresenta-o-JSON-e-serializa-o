@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "xml-js": "^1.6.11",
+    "xml-json": "^2.0.2",
+    "yaml": "^2.1.0"
+  },
+  "name": "exemplo2",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
